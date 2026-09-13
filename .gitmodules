@@ -5,6 +5,9 @@
 [submodule "fcall"]
 	path = fcall
 	url = https://github.com/ketchbrookanalytics/fcall
+[submodule "fdic"]
+	path = fdic
+	url = https://github.com/ketchbrookanalytics/fdic
 [submodule "ffiec"]
 	path = ffiec
 	url = https://github.com/ketchbrookanalytics/ffiec
